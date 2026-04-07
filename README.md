@@ -1,12 +1,12 @@
 # Hi there, I'm Saina! 👋 
 
 ## 👩‍💻 About Me
-[cite_start]I am a **Data Science Master's Student** at the **Technical University of Hamburg (TUHH)** with a foundation in Computer Science and Engineering. [cite_start]I specialize in transforming high-volume data into actionable insights, particularly within the **energy transition** sector[cite: 8, 9].
+I am a **Data Science Master's Student** at the **Technical University of Hamburg (TUHH)** with a foundation in Computer Science and Engineering. [cite_start]I specialize in transforming high-volume data into actionable insights, particularly within the **energy transition** sector[cite: 8, 9].
 
-- [cite_start]🎓 **Current Focus:** Completing my M.Sc. in Data Science.
-- [cite_start]🛠️ **Expertise:** Leveraging AI and automation to optimize end-to-end data workflows[cite: 15, 45].
-- [cite_start]🌍 **Location:** Hamburg, Germany[cite: 5].
-- [cite_start]🗣️ **Languages:** English (Mother tongue) & German[cite: 24].
+- 🎓 **Current Focus:** Completing my M.Sc. in Data Science.
+- 🛠️ **Expertise:** Leveraging AI and automation to optimize end-to-end data workflows.
+- 🌍 **Location:** Hamburg, Germany.
+- 🗣️ **Languages:** English (Mother tongue) & German.
 
 ---
 
