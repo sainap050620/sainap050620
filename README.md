@@ -20,12 +20,6 @@ I am a **Data Science Master's Student** at the **Technical University of Hambur
 
 ---
 
-## 📊 My GitHub Impact
-![Saina's Stats](https://github-readme-stats.vercel.app/api?username=sainap050620&show_icons=true&theme=dracula&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sainap050620&layout=compact&theme=dracula)
-
----
-
 ## 📂 Featured Projects
 
 ### ⚡ [Automated Energy Reporting](https://github.com/sainap050620/smart-reporting-automation-tool.git)
@@ -40,8 +34,8 @@ Built a **Power BI** dashboard to visualize wind and solar feed-in metrics again
 ---
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Saina-Pattanayak)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sainapattanayak/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainapattanayakw@gmail.com)
 
 ---
-*“I believe in leveraging AI to curate smarter solutions.”* 
+*“I believe in leveraging AI to curate smarter solutions.”*
