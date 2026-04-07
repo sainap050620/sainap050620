@@ -1,38 +1,47 @@
-# Hi there, I'm Saina! 👋
+# Hi there, I'm Saina! 👋 
 
-## 🚀 About Me
-I'm an aspiring **Data Developer** with a passion for turning messy data into clean, actionable insights. I enjoy building automation scripts and exploring data visualization.
+## 👩‍💻 About Me
+[cite_start]I am a **Data Science Master's Student** at the **Technical University of Hamburg (TUHH)** with a foundation in Computer Science and Engineering. [cite_start]I specialize in transforming high-volume data into actionable insights, particularly within the **energy transition** sector[cite: 8, 9].
 
-- 🌱 I’m currently learning **Advanced Pandas & Machine Learning**
-- 🤝 I’m looking to collaborate on **Open Source Data Projects**
-- ⚡ Fun fact: I believe any problem can be solved with a well-structured Python dictionary.
-
----
-
-## 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,github,vscode,pycharm,postgres&perline=8)](https://skillicons.dev)
+- [cite_start]🎓 **Current Focus:** Completing my M.Sc. in Data Science.
+- [cite_start]🛠️ **Expertise:** Leveraging AI and automation to optimize end-to-end data workflows[cite: 15, 45].
+- [cite_start]🌍 **Location:** Hamburg, Germany[cite: 5].
+- [cite_start]🗣️ **Languages:** English (Mother tongue) & German[cite: 24].
 
 ---
 
-## 📊 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight)
+## 🚀 Tech Stack & Skills
+### **Programming & Data Science**
+[![My Skills](https://skillicons.dev/icons?i=python,r,sql,tensorflow,sklearn,pandas,numpy)](https://skillicons.dev)
+
+### **Big Data & Visualization**
+[![Tools](https://skillicons.dev/icons?i=kafka,nodejs,powerbi,excel)](https://skillicons.dev)
+[cite_start]*Plus: Apache Flink, Stream Processing, Redis, Seaborn, Matplotlib, and XGBoost[cite: 31, 32, 52].*
 
 ---
 
-## 📂 Featured Project: Salary Analysis
-*A Python-based tool to process office payroll data and calculate department averages.*
-- **Tools:** Python, Pandas
-- **Key Feature:** Automatically converts string-based currency data into numeric formats for statistical reporting.
-- [View Repository](https://github.com/[YOUR_USERNAME]/salary-analysis)
+## 📊 My GitHub Impact
+![Saina's Stats](https://github-readme-stats.vercel.app/api?username=sainap050620&show_icons=true&theme=dracula&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sainap050620&layout=compact&theme=dracula)
+
+---
+
+## 📂 Featured Projects
+
+### ⚡ [Automated Energy Reporting](https://github.com/sainap050620/smart-reporting-automation-tool.git)
+[cite_start]Developed a Python pipeline using **Scikit-learn** to forecast grid loads and identify consumption patterns to support grid stability decisions[cite: 37, 38].
+
+### 🚕 [Taxi Monitoring Engine (TIME)](https://github.com/sainap050620/taxi-monitoring-system.git)
+[cite_start]A real-time monitoring dashboard processing **10,000+ taxi fleets** using Apache Kafka, Flink, and Redis[cite: 50, 52, 53].
+
+### 📊 [Renewable Energy Dashboard](https://github.com/sainap050620/renewable-energy-viz-dashboard.git)
+[cite_start]Built a **Power BI** dashboard to visualize wind and solar feed-in metrics against regional grid capacities[cite: 41, 43].
 
 ---
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINKEDIN])
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR_EMAIL]@gmail.com)
-<!---
-sainap050620/sainap050620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![My Skills](https://skillicons.dev/icons?i=py,js,react,html,css,github,vscode)](https://skillicons.dev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Saina-Pattanayak)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainapattanayakw@gmail.com)
+
+---
+[cite_start]*“I believe in leveraging AI to curate smarter solutions.”* [cite: 15]
