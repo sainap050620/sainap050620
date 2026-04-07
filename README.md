@@ -1,7 +1,7 @@
 # Hi there, I'm Saina! 👋 
 
 ## 👩‍💻 About Me
-I am a **Data Science Master's Student** at the **Technical University of Hamburg (TUHH)** with a foundation in Computer Science and Engineering. [cite_start]I specialize in transforming high-volume data into actionable insights, particularly within the **energy transition** sector[cite: 8, 9].
+I am a **Data Science Master's Student** at the **Technical University of Hamburg (TUHH)** with a foundation in Computer Science and Engineering. I specialize in transforming high-volume data into actionable insights, particularly within the **energy transition** sector.
 
 - 🎓 **Current Focus:** Completing my M.Sc. in Data Science.
 - 🛠️ **Expertise:** Leveraging AI and automation to optimize end-to-end data workflows.
@@ -16,7 +16,7 @@ I am a **Data Science Master's Student** at the **Technical University of Hambur
 
 ### **Big Data & Visualization**
 [![Tools](https://skillicons.dev/icons?i=kafka,nodejs,powerbi,excel)](https://skillicons.dev)
-[cite_start]*Plus: Apache Flink, Stream Processing, Redis, Seaborn, Matplotlib, and XGBoost[cite: 31, 32, 52].*
+*Plus: Apache Flink, Stream Processing, Redis, Seaborn, Matplotlib, and XGBoost.*
 
 ---
 
@@ -29,13 +29,13 @@ I am a **Data Science Master's Student** at the **Technical University of Hambur
 ## 📂 Featured Projects
 
 ### ⚡ [Automated Energy Reporting](https://github.com/sainap050620/smart-reporting-automation-tool.git)
-[cite_start]Developed a Python pipeline using **Scikit-learn** to forecast grid loads and identify consumption patterns to support grid stability decisions[cite: 37, 38].
+Developed a Python pipeline using **Scikit-learn** to forecast grid loads and identify consumption patterns to support grid stability decisions.
 
 ### 🚕 [Taxi Monitoring Engine (TIME)](https://github.com/sainap050620/taxi-monitoring-system.git)
-[cite_start]A real-time monitoring dashboard processing **10,000+ taxi fleets** using Apache Kafka, Flink, and Redis[cite: 50, 52, 53].
+A real-time monitoring dashboard processing **10,000+ taxi fleets** using Apache Kafka, Flink, and Redis.
 
 ### 📊 [Renewable Energy Dashboard](https://github.com/sainap050620/renewable-energy-viz-dashboard.git)
-[cite_start]Built a **Power BI** dashboard to visualize wind and solar feed-in metrics against regional grid capacities[cite: 41, 43].
+Built a **Power BI** dashboard to visualize wind and solar feed-in metrics against regional grid capacities.
 
 ---
 
@@ -44,4 +44,4 @@ I am a **Data Science Master's Student** at the **Technical University of Hambur
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainapattanayakw@gmail.com)
 
 ---
-[cite_start]*“I believe in leveraging AI to curate smarter solutions.”* [cite: 15]
+*“I believe in leveraging AI to curate smarter solutions.”* 
