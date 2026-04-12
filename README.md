@@ -30,4 +30,17 @@ I am a **Data Science Master's Student** at the **Technical University of Hambur
 ### ⚡ [Automated Energy Reporting](https://github.com/sainap050620/smart-reporting-automation-tool.git)
 Developed a Python pipeline using **Scikit-learn** to forecast grid loads and identify consumption patterns to support grid stability decisions.
 
-### 🚕 [Taxi Monitoring Engine (TIME)](
+### 🚕 [Taxi Monitoring Engine (TIME)](https://github.com/sainap050620/taxi-monitoring-system.git)
+A real-time monitoring dashboard processing **10,000+ taxi fleets** using Apache Kafka, Flink, and Redis.
+
+### 📊 [Renewable Energy Dashboard](https://github.com/sainap050620/renewable-energy-viz-dashboard.git)
+Built a **Power BI** dashboard to visualize wind and solar feed-in metrics against regional grid capacities.
+
+---
+
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sainapattanayak/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainapattanayakw@gmail.com)
+
+---
+*“I believe in leveraging AI to curate smarter solutions.”*
