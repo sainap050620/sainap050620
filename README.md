@@ -6,7 +6,7 @@ I am a **Data Science Master's Student** at the **Technical University of Hambur
 - 🎓 **Current Focus:** Completing my M.Sc. in Data Science.
 - 🛠️ **Expertise:** Leveraging AI and automation to optimize end-to-end data workflows.
 - 🌍 **Location:** Hamburg, Germany.
-- 🗣️ **Languages:** English (Mother tongue) & German.
+- 🗣️ **Languages:** English (Mother tongue) & German (B1).
 
 ---
 
