@@ -6,7 +6,7 @@ I am a **Data Science Master's Student** at the **Technical University of Hambur
 - 🎓 **Current Focus:** Completing my M.Sc. in Data Science.
 - 🛠️ **Expertise:** Leveraging AI and automation to optimize end-to-end data workflows.
 - 🌍 **Location:** Hamburg, Germany.
-- 🗣️ **Languages:** English (Mother tongue) & German (B1).
+- 🗣️ **Languages:** English (Mother tongue) & German.
 
 ---
 
@@ -16,7 +16,12 @@ I am a **Data Science Master's Student** at the **Technical University of Hambur
 
 ### **Big Data & Visualization**
 [![Tools](https://skillicons.dev/icons?i=kafka,nodejs,powerbi,excel)](https://skillicons.dev)
-*Plus: Apache Flink, Stream Processing, Redis, Seaborn, Matplotlib, and XGBoost.*
+
+### **AI-Assisted Development**
+I leverage advanced AI tools to accelerate coding, debugging, and data modeling:
+* **LLMs:** Claude (Anthropic), ChatGPT (OpenAI)
+* **Coding Assistants:** GitHub Copilot, OpenAI Codex
+* **Automation:** AI-driven data pipelines and prompt engineering for technical documentation.
 
 ---
 
