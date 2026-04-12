@@ -17,11 +17,11 @@ I am a **Data Science Master's Student** at the **Technical University of Hambur
 ### **Big Data & Visualization**
 [![Tools](https://skillicons.dev/icons?i=kafka,nodejs,powerbi,excel)](https://skillicons.dev)
 
-### **AI-Assisted Development**
-I leverage advanced AI tools to accelerate coding, debugging, and data modeling:
-* **LLMs:** Claude (Anthropic), ChatGPT (OpenAI)
-* **Coding Assistants:** GitHub Copilot, OpenAI Codex
-* **Automation:** AI-driven data pipelines and prompt engineering for technical documentation.
+### **AI & Developer Productivity**
+![Claude](https://img.shields.io/badge/Claude-705747?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -30,17 +30,4 @@ I leverage advanced AI tools to accelerate coding, debugging, and data modeling:
 ### ⚡ [Automated Energy Reporting](https://github.com/sainap050620/smart-reporting-automation-tool.git)
 Developed a Python pipeline using **Scikit-learn** to forecast grid loads and identify consumption patterns to support grid stability decisions.
 
-### 🚕 [Taxi Monitoring Engine (TIME)](https://github.com/sainap050620/taxi-monitoring-system.git)
-A real-time monitoring dashboard processing **10,000+ taxi fleets** using Apache Kafka, Flink, and Redis.
-
-### 📊 [Renewable Energy Dashboard](https://github.com/sainap050620/renewable-energy-viz-dashboard.git)
-Built a **Power BI** dashboard to visualize wind and solar feed-in metrics against regional grid capacities.
-
----
-
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sainapattanayak/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainapattanayakw@gmail.com)
-
----
-*“I believe in leveraging AI to curate smarter solutions.”*
+### 🚕 [Taxi Monitoring Engine (TIME)](
