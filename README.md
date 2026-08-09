@@ -12,7 +12,7 @@ I am a **Data Science Master's Student** at the **Technical University of Hambur
 
 ## 🚀 Tech Stack & Skills
 ### **Programming & Data Science**
-[![My Skills](https://skillicons.dev/icons?python,r,sql,pytorch,tensorflow,sklearn,pandas,numpy)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,sql,pytorch,tensorflow,sklearn,pandas,numpy)](https://skillicons.dev)
 
 ### **Big Data & Visualization**
 [![Tools](https://skillicons.dev/icons?i=kafka,nodejs,powerbi,excel)](https://skillicons.dev)
