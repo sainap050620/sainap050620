@@ -11,18 +11,17 @@ I am a **Data Science Master's Student** at the **Technical University of Hambur
 ---
 
 ## 🚀 Tech Stack & Skills
-### **Programming & Data Science**
-[![My Skills](https://skillicons.dev/icons?i=python,r,sql,pytorch,tensorflow,sklearn,pandas,numpy)](https://skillicons.dev)
 
-### **Big Data & Visualization**
-[![Tools](https://skillicons.dev/icons?i=kafka,nodejs,powerbi,excel)](https://skillicons.dev)
+### Programming & Data Science
+<img src="https://skillicons.dev/icons?i=py,r,pytorch,tensorflow,sklearn&theme=dark" />
 
-### **AI & Developer Productivity**
-![Claude](https://img.shields.io/badge/Claude-705747?style=for-the-badge&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+### Big Data & Streaming
+<img src="https://skillicons.dev/icons?i=kafka,redis,docker,elasticsearch&theme=dark" />
+<br />
+<a href="https://flink.apache.org/"><img src="https://img.shields.io/badge/Apache%20Flink-%23E6526F.svg?style=for-the-badge&logo=ApacheFlink&logoColor=white"/></a><a href="https://flink.apache.org/"><img src="https://img.shields.io/badge/PyFlink-%23E6526F.svg?style=for-the-badge&logo=python&logoColor=white"/></a>
 
+### AI & Developer Productivity
+<a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/></a><a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/></a><a href="https://openai.com"><img src="https://img.shields.io/badge/Codex-3023AE?style=for-the-badge&logo=openai&logoColor=white"/></a><a href="https://chatgpt.com"><img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/></a>
 ---
 
 ## 📂 Featured Projects
