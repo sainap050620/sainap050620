@@ -30,4 +30,33 @@ I am a **Data Science Master's Student** at the **Technical University of Hambur
 <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/></a><a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/></a>
 
 ### AI & Productivity
-<a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/></a><a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/></a><a href="https://openai.com"><img src="https://img.shields.io/badge/Codex-3023AE?style=for-the-badge&logo=openai&logoColor=white"/></a><a href="https://chatgpt.com"><img src="
+<a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/></a><a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/></a><a href="https://openai.com"><img src="https://img.shields.io/badge/Codex-3023AE?style=for-the-badge&logo=openai&logoColor=white"/></a><a href="https://chatgpt.com"><img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/></a>
+---
+### 📁 Featured Projects
+
+#### 🏥 Surgical Equipment Classification & Localization (Intelligent Systems in Medicine)
+Computer vision and image processing project focused on surgical video streams. Utilized frames and video clips to first classify surgical tools and subsequently localize them in real time. Established performance benchmarks using baseline models and iteratively fine-tuned them against target evaluation metrics.
+
+#### 🕸️ [Graph Machine Learning & Network Representation](https://github.com/sainap050620/graph-learning-mlgs)
+Comprehensive graph representation pipeline implementing spectral centralities (power iteration), neighborhood heuristics, and shallow embedding architectures (DeepWalk with Skip-gram negative sampling & node2vec biased walks). Evaluated downstream on node classification and route-level link prediction.
+
+#### 📊 [FMCG Sales Intelligence & Commercial Dashboard](https://github.com/sainap050620/fmcg-sales-intelligence-dashboard)
+End-to-end commercial analytics pipeline and **Streamlit** dashboard evaluating retail omnichannel sales, promotional lift, and profit margins using **Python** and **SQL**.
+
+#### ⚡ [Automated Energy Reporting](https://github.com/sainap050620)
+Developed a Python pipeline using **Scikit-learn** to forecast grid loads and identify consumption patterns to support grid stability decisions.
+
+#### 🚖 [Taxi Monitoring Engine (TIME)](https://github.com/sainap050620)
+A real-time monitoring dashboard processing **10,000+ taxi fleets** using Apache Kafka, Flink, and Redis.
+
+#### 📊 [Renewable Energy Dashboard](https://github.com/sainap050620)
+Built a **Power BI** dashboard to visualize wind and solar feed-in metrics against regional grid capacities.
+
+---
+
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sainapattanayak/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainapattanayakw@gmail.com)
+
+---
+*“I believe in leveraging AI to curate smarter solutions.”*
