@@ -30,21 +30,4 @@ I am a **Data Science Master's Student** at the **Technical University of Hambur
 <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/></a><a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/></a>
 
 ### AI & Productivity
-<a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/></a><a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/></a><a href="https://openai.com"><img src="https://img.shields.io/badge/Codex-3023AE?style=for-the-badge&logo=openai&logoColor=white"/></a><a href="https://chatgpt.com"><img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/></a>
----
-### 📁 Featured Projects
-
-#### 🏥 Surgical Equipment Classification & Localization
-Developed an image processing and computer vision pipeline for **Intelligent Systems in Medicine** to classify and spatially localize surgical equipment from surgical video frames. Established benchmark metrics with a baseline model and iteratively fine-tuned architectures for accurate multi-tool detection.
-
-#### 🕸️ [Graph Machine Learning & Network Representation](https://github.com/sainap050620/graph-learning-mlgs)
-Implemented spectral centralities, random walk dynamics, shallow representation learning (DeepWalk with Skip-gram negative sampling, node2vec biased walks), and link prediction with similarity metrics on structural networks.
-
-#### 📊 [FMCG Sales Intelligence & Commercial Dashboard](https://github.com/sainap050620/fmcg-sales-intelligence-dashboard)
-End-to-end commercial analytics pipeline and **Streamlit** dashboard evaluating retail omnichannel sales, promotional lift, and profit margins using **Python** and **SQL**.
-
-#### ⚡ [Automated Energy Reporting](https://github.com/sainap050620)
-Developed a Python pipeline using **Scikit-learn** to forecast grid loads and identify consumption patterns to support grid stability decisions.
-
-#### 🚖 [Taxi Monitoring Engine (TIME)](https://github.com/sainap050620)
-A real-time monitoring dashboard processing **10,000+
+<a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/></a><a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/></a><a href="https://openai.com"><img src="https://img.shields.io/badge/Codex-3023AE?style=for-the-badge&logo=openai&logoColor=white"/></a><a href="https://chatgpt.com"><img src="
