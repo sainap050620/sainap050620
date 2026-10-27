@@ -34,8 +34,9 @@ I am a **Data Science Master's Student** at the **Technical University of Hambur
 ---
 ### 📁 Featured Projects
 
-#### 🏥 Surgical Equipment Classification & Localization (Intelligent Systems in Medicine)
-Computer vision and image processing project focused on surgical video streams. Utilized frames and video clips to first classify surgical tools and subsequently localize them in real time. Established performance benchmarks using baseline models and iteratively fine-tuned them against target evaluation metrics.
+### 🏥 [Surgical Instrument Detection & Perception Pipeline](https://github.com/sainap050620/surgical-instrument-detection)
+
+End-to-end medical computer vision pipeline for automated surgical instrument classification and multi-class localization across endoscopic video feeds. Extracted handcrafted visual descriptors (color histograms, Hu moments, Local Binary Patterns) paired with PCA dimensionality reduction and Support Vector Machines, fully containerized with **Docker** for zero-dependency, isolated offline evaluation.
 
 #### 🕸️ [Graph Machine Learning & Network Representation](https://github.com/sainap050620/graph-learning-mlgs)
 Comprehensive graph representation pipeline implementing spectral centralities (power iteration), neighborhood heuristics, and shallow embedding architectures (DeepWalk with Skip-gram negative sampling & node2vec biased walks). Evaluated downstream on node classification and route-level link prediction.
