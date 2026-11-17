@@ -9,7 +9,7 @@ I started out in **HR**, moved into **Computer Science**, and now work where dat
 - 🔭 Currently building: a classical computer-vision pipeline for surgical instrument detection (handcrafted features + SVM, Dockerised)
 - 🤖 I build with **Claude Code** as my AI pair programmer, for faster experiments, cleaner code and better docs. I still own every design decision and every number I report.
 - 📍 Hamburg, Germany · open to relocation
-- 🗣️ English (fluent) · German (C1)
+- 🗣️ English (fluent) · German (B2)
 
 ---
 
