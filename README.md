@@ -2,7 +2,7 @@
 
 **Data Science M.Sc. student @ TU Hamburg** · turning messy, real-world data into clean pipelines, honest metrics and dashboards people actually use.
 
-I started out in **HR**, moved into **Computer Science**, and now work where data, systems and people meet: data engineering, analytics and applied ML, with a soft spot for the **energy transition**.
+With a Bachelor's in **Computer Science** and a Master's in **Data Science** in progress, I work where data and systems meet: data engineering, analytics and applied ML, with a soft spot for the **energy transition**.
 
 - 🎓 M.Sc. Data Science, TU Hamburg (expected 10/2027) · B.E. Computer Science
 - 💼 Working student: daily data validation & root-cause analysis across operational systems
