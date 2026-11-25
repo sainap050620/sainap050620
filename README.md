@@ -29,6 +29,10 @@ With a Bachelor's in **Computer Science** and a Master's in **Data Science** in 
 <br />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
+**Deployment & Hosting**
+<br />
+<img src="https://img.shields.io/badge/Streamlit_Community_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
 **Tools & AI-assisted development**
 <br />
 <img src="https://skillicons.dev/icons?i=git,vscode,pycharm&theme=dark" />
@@ -39,20 +43,24 @@ With a Bachelor's in **Computer Science** and a Master's in **Data Science** in 
 
 ## 📁 Featured Projects
 
-### 🛒 [Retail Data Warehouse & Sales Intelligence](https://github.com/sainap050620/fmcg-sales-intelligence-dashboard)
-Star-schema data model (`fact_sales` + date/product/channel dimensions), an ETL pipeline with **automated data-quality checks**, and an analytical **SQL** layer (CTEs, window functions) for MoM growth, promo lift and category share, served in a **Streamlit** dashboard.
+### 🛒 Retail Data Warehouse & Sales Intelligence
+Star-schema data model, an ETL pipeline with **automated data-quality checks**, and an analytical **SQL** layer (CTEs, window functions) for MoM growth, promo lift and category share, served in a **Streamlit** dashboard.
+<br />🔗 [Live demo](https://fmcg-sales-intelligence.streamlit.app/) · [Code](https://github.com/sainap050620/fmcg-sales-intelligence-dashboard)
+
+### ⚡ German Grid Load Forecasting API
+Containerised **FastAPI** microservice forecasting electricity demand (MW), with **Pydantic** schema validation, **Pytest** tests and a **GitHub Actions** CI pipeline. Deployed on **Render** (free tier: the first request can take about a minute while the service wakes up).
+<br />🔗 [Live API docs](https://grid-load-forecasting-ai.onrender.com/docs) · [Code](https://github.com/sainap050620/grid-load-forecasting-ai)
+
+### 🌬️ Renewable Energy Dashboard
+Wind & solar feed-in vs. regional consumption, grid-congestion and curtailment KPIs across the four German TSO control areas, built for non-technical stakeholders.
+<br />🔗 [Live demo](https://german-renewable-energy.streamlit.app/) · [Code](https://github.com/sainap050620/renewable-energy-viz-dashboard)
+
+### 📝 Grid Incident Reporting Portal
+Turns raw grid event logs into management-ready briefings, with a **Streamlit** portal and optional LLM summary.
+<br />🔗 [Live demo](https://grid-incident-reporting.streamlit.app/) · [Code](https://github.com/sainap050620/smart-reporting-automation-tool)
 
 ### 🚖 [Real-Time Taxi Fleet Monitoring](https://github.com/sainap050620/Taxi-monitoring-system)
 Streaming platform for **10,000+ taxis**: Kafka producer → **Apache Flink** operators (speed, distance, active/ended trips) → Elasticsearch → live **Kibana** dashboards. Whole stack in **Docker Compose**. *TU Hamburg Big Data project, team of 4.*
-
-### ⚡ [German Grid Load Forecasting API](https://github.com/sainap050620/grid-load-forecasting-ai)
-Containerised **FastAPI** microservice forecasting electricity demand (MW), with **Pydantic** schema validation, **Pytest** tests and a **GitHub Actions** CI pipeline.
-
-### 🌬️ [Renewable Energy Dashboard](https://github.com/sainap050620/renewable-energy-viz-dashboard)
-Wind & solar feed-in vs. regional consumption, grid-congestion and curtailment KPIs, built for non-technical stakeholders.
-
-### 📝 [Automated Reporting Pipeline](https://github.com/sainap050620/smart-reporting-automation-tool)
-ETL for messy CSV exports plus LLM-generated, management-ready summaries.
 
 ### 🏥 Surgical Instrument Detection *(TU Hamburg ISM Challenge, in progress)*
 Endoscopic-image classification with handcrafted descriptors (colour histograms, Hu moments, LBP), PCA and SVMs, fully **Dockerised** for offline evaluation.
